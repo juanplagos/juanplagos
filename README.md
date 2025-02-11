@@ -28,6 +28,6 @@
 <div align="center">
   <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanplagos&layout=compact&theme=city_lights)
+![juanplagos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanplagos&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_progress=true)
 
 </div>
